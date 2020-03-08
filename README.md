@@ -22,9 +22,11 @@
 - [李宏毅《2020机器学习》](https://www.youtube.com/watch?v=c9TwBeWAj_U&t=53s)
 
 # 深度学习
-
+- [MIT麻省理工《深度学习最新进展（2020）》](https://www.youtube.com/watch?v=0VH1Lim8gL8&t=6s)
+- [最新MIT2020深度学习导论课【中英双语字幕】](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 # 计算机视觉
-
+## 目标检测
+- [最详细YOLOv3经典目标检测算法讲解！](https://www.youtube.com/watch?v=V6sva2tCCCk&feature=youtu.be)
 # 自然语言处理
 ## 视频
-- [李宏毅2020《深度学习与人类语言处理》](https://www.youtube.com/watch?v=nER51ZyJaCQ&t=249s),PPT：http://speech.ee.ntu.edu.tw/~tlkagk/courses/DLHLP20/Introduction%20(v9).pdf
+- [李宏毅2020《深度学习与人类语言处理》](https://www.youtube.com/watch?v=nER51ZyJaCQ&t=249s), PPT：http://speech.ee.ntu.edu.tw/~tlkagk/courses/DLHLP20/Introduction%20(v9).pdf
