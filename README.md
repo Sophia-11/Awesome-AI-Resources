@@ -10,14 +10,21 @@
 # 微信公众号
 关注微信公众号【计算机视觉联盟】第一时间获取干货！
 
+![](https://github.com/Sophia-11/Awesome-AI-Resources/blob/master/lmQR.jpg)
+
 # 可加博士交流
 可加王博（985 AI博士，CSDN博客专家）**微信号（Kingsplus）** 备注：**单位/学校+研究方向** ，一起交流学习进步！
 ![](https://github.com/Sophia-11/DeepLearningNotes/blob/master/cvQR.jpg)
 
 # 机器学习
+## 视频
+
+- [李宏毅《2020机器学习》](https://www.youtube.com/watch?v=c9TwBeWAj_U&t=53s)
 
 # 深度学习
 
 # 计算机视觉
 
 # 自然语言处理
+## 视频
+- [李宏毅2020《深度学习与人类语言处理》](https://www.youtube.com/watch?v=nER51ZyJaCQ&t=249s),PPT：http://speech.ee.ntu.edu.tw/~tlkagk/courses/DLHLP20/Introduction%20(v9).pdf
