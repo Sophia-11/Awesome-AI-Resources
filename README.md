@@ -18,6 +18,7 @@
 
 # 机器学习
 ## 视频
+[吴恩达机器学习](https://www.coursera.org/learn/machine-learning)
 
 - [李宏毅《2020机器学习》](https://www.youtube.com/watch?v=c9TwBeWAj_U&t=53s)
 
