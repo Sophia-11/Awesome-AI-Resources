@@ -18,8 +18,8 @@
 
 # 机器学习
 ## 视频
-[吴恩达机器学习](https://www.coursera.org/learn/machine-learning)
-
+- [吴恩达机器学习](https://www.coursera.org/learn/machine-learning)
+- [sklearn官方文档](https://scikit-learn.org/stable/preface.html)
 - [李宏毅《2020机器学习》](https://www.youtube.com/watch?v=c9TwBeWAj_U&t=53s)
 
 # 深度学习
@@ -31,3 +31,9 @@
 # 自然语言处理
 ## 视频
 - [李宏毅2020《深度学习与人类语言处理》](https://www.youtube.com/watch?v=nER51ZyJaCQ&t=249s), PPT：http://speech.ee.ntu.edu.tw/~tlkagk/courses/DLHLP20/Introduction%20(v9).pdf
+
+# 工具类
+- [OpenCV中文官方文档](http://woshicver.com)
+- [PyTorch官方文档](https://pytorch-cn.readthedocs.io/zh/latest/#pytorch)
+- [TensorFlow官方中文文档](http://www.tensorfly.cn/tfdoc/how_tos/overview.html)
+- [keras官方中文文档](https://keras.io/zh/)
